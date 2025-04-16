@@ -1,3 +1,1 @@
 # GenerativeAI
-
-Generative AI Code
